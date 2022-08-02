@@ -11,6 +11,14 @@ $carousel-item-height: 300px;
 	padding: $pad-up-dn $pad-left-right;
 }
 
+.modal-header{
+    background-color: $background-pale;
+}
+
+.modal-body{
+    background-color: $background-pale;
+}
+
 .row-header{
     @include zero-margin(0px,0px);
 }
